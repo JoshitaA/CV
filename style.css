@@ -1,0 +1,40 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+.heading{
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Headland One', serif;
+}
+.profile{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.name{
+  margin-left: 60px;
+}
+h5,h6{
+  font-family: 'Lato', sans-serif;
+}
+p{
+  font-family: Cabin;
+}
+h3{
+  font-family: 'Baloo Chettan 2', cursive;
+}
+.fas,.fab,.far{
+  color: #1687a7;
+}
+.Homepage{
+  background-color: #1687a7;
+  margin: 0;
+  padding: 0;
+}
+.card{
+  background-color: #f6f5f5;
+}
